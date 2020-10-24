@@ -19,10 +19,6 @@ else:
 
 bp_api_core = Blueprint("core", __name__, url_prefix="/api")
 
-@bp_api_core.route("", methods=["GET"])
-def return_page_index():
-    return render_template('api.html', ga_code=config['google_analytics']['code'])
-
 @bp_api_core.route("/ping", methods=["GET"])
 def pong():
     data = {}

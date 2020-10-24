@@ -20,7 +20,7 @@ else:
 
 bp_api_generate = Blueprint("generate", __name__, url_prefix="/api")
 
-@bp_api_generate.route("generate", methods=["GET"])
+@bp_api_generate.route("", methods=["GET"])
 def generate_idea():
 
     data = {}
