@@ -1,2 +1,2 @@
 # OpenSourceProjectGoBeepBoop
-A website that generates obscure opensource project ideas!
+OSPGBP is a website thingy that generates obscure opensource project ideas!

@@ -1,0 +1,79 @@
+server:
+    host: 0.0.0.0
+    port: 5000
+    debug: False
+logging:
+    location: logs/ospgbp.log
+    level: DEBUG
+things:
+    - a rocket
+    - a drone
+    - a robot
+    - a program
+    - a script
+    - a dodgey looking USB drive
+    - some catapult launchy thing
+    - a dusty old rubbish bin
+    - a pair of broken glasses
+    - a website
+    - a desk fan
+    - a RESTful API that doesn't follow the OpenAPI standard
+    - something that goes beep boop
+    - a life size replica of Gandalf
+    - sentient toe nail clippers
+    - one of those sentinel things from No Mans Sky
+    - a version of DDOSx that actually works
+    - I convert this half eaten meat and potato pie into something that
+    - I build one if those subsurface resonators from COD Black Ops 2 using parts I find around the office
+    - A used can of compressd air
+    - an Intel CPU
+actions:
+    - launches
+    - cleans
+    - generates
+    - fixes
+    - repairs
+    - hides
+    - secretly buries something in my neighbour's back garden, maybe something like
+    - shouts "should have gone to specsavers" at
+    - goes beep boop, while doing something else with
+    - contemplates the meaning of
+items:
+    - a cat
+    - a dog
+    - some weird cat/dog hydrid
+    - my sisters pet hamster
+    - one of those inferior IPhone things
+    - Stephen Crow
+    - my car keys
+    - my annoying little brother
+    - A Dell R730XD pulled from an random rack in the DC
+    - this rusty old spoon i found
+    - opensource project ideas
+    - a thing that goes beep boop
+    - life
+    - a cactus
+    - utter dissapointment
+    - whatever that thing over there is
+languages:
+    - a old Sinclair ZX Spectrum 48K
+    - a Nintendo Wii
+    - an Atari ST
+    - various random tones captred from an old tape recorder
+    - BASIC
+    - Pascal
+    - Python
+    - Rust
+    - Bash
+    - Ansible
+    - Chef
+    - Puppet
+    - C++
+    - HTML
+    - CSS
+    - JavaScript
+    - Java 
+    - Scratch
+    - Windows Movie Maker
+    - Machine Code
+    - something that goes beep boop
