@@ -1,6 +1,6 @@
 FROM python:3.8.5-alpine3.12
 LABEL maintainer="32bitbradley@gmail.com"
-LABEL version="1.0"
+LABEL version="1.1"
 
 EXPOSE 5000/tcp
 
